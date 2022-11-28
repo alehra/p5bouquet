@@ -70,3 +70,29 @@ function mousePressed() {
   }  
   }
 }
+
+
+/*
+
+I ended up not using this part of the code, but I wanted to keep it in
+
+function mouseDragged(){
+
+noStroke();
+fill("c");
+ellipse(mouseX,mouseY,20,20);
+line(275,400,200,100);
+
+}
+
+function keyPressed() {
+ if (keyCode === LEFT_ARROW)
+  clear();
+
+  {
+    
+
+
+}
+ 
+ */
